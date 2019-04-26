@@ -5,13 +5,13 @@ This is a app made using reactNative and redux.
 
 ```
 
+# To run this App
 ```javascript
-#To run this App
 npm i
 npm start
 ```
 
-![Screenshot](src/back.png "reactNative")
+![react-redux](src/back.png "reactNative")
 
 
 
