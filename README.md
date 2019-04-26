@@ -11,7 +11,7 @@ npm i
 npm start
 ```
 
-![Screenshot](back.png "reactNative")
+![Screenshot](src/back.png "reactNative")
 
 
 
