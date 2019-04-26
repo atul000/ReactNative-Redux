@@ -11,7 +11,7 @@ npm i
 npm start
 ```
 
-![react-redux](src/back.png "reactNative")
+![react-redux](list.png "reactNative")
 
 
 
